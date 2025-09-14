@@ -1,0 +1,211 @@
+<controls>
+    <category name="MULTIKEY">
+    </category>
+    <category name="ONE KEY">
+        <control name="1k0" saveName="control_1k0" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+    </category>
+    <category name="TWO KEY">
+        <control name="2k0" saveName="control_2k0" menuName="LEFT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="2k1" saveName="control_2k1" menuName="RIGHT" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+    </category>
+    <category name="THREE KEY">
+        <control name="3k0" saveName="control_3k0" menuName="LEFT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="3k1" saveName="control_3k1" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="3k2" saveName="control_3k2" menuName="RIGHT" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+    </category>
+    <category name="FOUR KEY">
+        <control name="4k0" saveName="control_4k0" menuName="LEFT" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="4k1" saveName="control_4k1" menuName="DOWN" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="4k2" saveName="control_4k2" menuName="UP" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="4k3" saveName="control_4k3" menuName="RIGHT" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+    </category>
+    <category name="FIVE KEY">
+        <control name="5k0" saveName="control_5k0" menuName="LEFT" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="5k1" saveName="control_5k1" menuName="DOWN" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="5k2" saveName="control_5k2" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="5k3" saveName="control_5k3" menuName="UP" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="5k4" saveName="control_5k4" menuName="RIGHT" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+    </category>
+    <category name="SIX KEY">
+        <control name="6k0" saveName="control_6k0" menuName="LEFT" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="6k1" saveName="control_6k1" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="6k2" saveName="control_6k2" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="6k3" saveName="control_6k3" menuName="LEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="6k4" saveName="control_6k4" menuName="DOWN" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="6k5" saveName="control_6k5" menuName="RIGHT2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="SEVEN KEY">
+        <control name="7k0" saveName="control_7k0" menuName="LEFT" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="7k1" saveName="control_7k1" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="7k2" saveName="control_7k2" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="7k3" saveName="control_7k3" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="7k4" saveName="control_7k4" menuName="LEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="7k5" saveName="control_7k5" menuName="DOWN" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="7k6" saveName="control_7k6" menuName="RIGHT2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="EIGHT KEY">
+        <control name="8k0" saveName="control_8k0" menuName="LEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="8k1" saveName="control_8k1" menuName="DOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="8k2" saveName="control_8k2" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="8k3" saveName="control_8k3" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="8k4" saveName="control_8k4" menuName="LEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="8k5" saveName="control_8k5" menuName="DOWN2" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="8k6" saveName="control_8k6" menuName="UP2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="8k7" saveName="control_8k7" menuName="RIGHT2" keyP1="SEMICOLON" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="NINE KEY">
+        <control name="9k0" saveName="control_9k0" menuName="LEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="9k1" saveName="control_9k1" menuName="DOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="9k2" saveName="control_9k2" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="9k3" saveName="control_9k3" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="9k4" saveName="control_9k4" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="9k5" saveName="control_9k5" menuName="LEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="9k6" saveName="control_9k6" menuName="DOWN2" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="9k7" saveName="control_9k7" menuName="UP2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="9k8" saveName="control_9k8" menuName="RIGHT2" keyP1="SEMICOLON" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="TEN KEY">
+        <control name="10k0" saveName="control_10k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="10k1" saveName="control_10k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="10k2" saveName="control_10k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="10k3" saveName="control_10k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="10k4" saveName="control_10k4" menuName="RUP" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="10k5" saveName="control_10k5" menuName="RDOWN" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="10k6" saveName="control_10k6" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="10k7" saveName="control_10k7" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="10k8" saveName="control_10k8" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="10k9" saveName="control_10k9" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="ELEVEN KEY">
+        <control name="11k0" saveName="control_11k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="11k1" saveName="control_11k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="11k2" saveName="control_11k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="11k3" saveName="control_11k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="11k4" saveName="control_11k4" menuName="RUP" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="11k5" saveName="control_11k5" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="11k6" saveName="control_11k6" menuName="RDOWN" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="11k7" saveName="control_11k7" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="11k8" saveName="control_11k8" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="11k9" saveName="control_11k9" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="11k10" saveName="control_11k10" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="TWELVE KEY">
+        <control name="12k0" saveName="control_12k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="12k1" saveName="control_12k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="12k2" saveName="control_12k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="12k3" saveName="control_12k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="12k4" saveName="control_12k4" menuName="RLEFT" keyP1="C" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="12k5" saveName="control_12k5" menuName="RDOWN" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="12k6" saveName="control_12k6" menuName="RUP" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="12k7" saveName="control_12k7" menuName="RRIGHT" keyP1="M" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="12k8" saveName="control_12k8" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="12k9" saveName="control_12k9" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="12k10" saveName="control_12k10" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="12k11" saveName="control_12k11" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="THIRTEEN KEY">
+        <control name="13k0" saveName="control_13k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="13k1" saveName="control_13k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="13k2" saveName="control_13k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="13k3" saveName="control_13k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="13k4" saveName="control_13k4" menuName="RLEFT" keyP1="C" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="13k5" saveName="control_13k5" menuName="RDOWN" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="13k6" saveName="control_13k6" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="13k7" saveName="control_13k7" menuName="RUP" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="13k8" saveName="control_13k8" menuName="RRIGHT" keyP1="M" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="13k9" saveName="control_13k9" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="13k10" saveName="control_13k10" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="13k11" saveName="control_13k11" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="13k12" saveName="control_13k12" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+        <category name="FOURTEEN KEY">
+        <control name="14k0" saveName="control_14k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="14k1" saveName="control_14k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="14k2" saveName="control_14k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="14k3" saveName="control_14k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="14k4" saveName="control_14k4" menuName="RLEFT" keyP1="X" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="14k5" saveName="control_14k5" menuName="RUP" keyP1="C" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="14k6" saveName="control_14k6" menuName="RRIGHT" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="14k7" saveName="control_14k7" menuName="RLEFT2" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rleft20"/>
+        <control name="14k8" saveName="control_14k8" menuName="RDOWN" keyP1="M" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="14k9" saveName="control_14k9" menuName="RRIGHT2" keyP1="COMMA" keyP2="" menuIcon="game/notes/default" menuAnim="rright20"/>
+        <control name="14k10" saveName="control_14k10" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="14k11" saveName="control_14k11" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="14k12" saveName="control_14k12" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="14k13" saveName="control_14k13" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+        <category name="FIFTEEN KEY">
+        <control name="15k0" saveName="control_15k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="15k1" saveName="control_15k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="15k2" saveName="control_15k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="15k3" saveName="control_15k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="15k4" saveName="control_15k4" menuName="RLEFT" keyP1="X" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="15k5" saveName="control_15k5" menuName="RUP" keyP1="C" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="15k6" saveName="control_15k6" menuName="RRIGHT" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="15k7" saveName="control_15k7" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="15k8" saveName="control_15k8" menuName="RLEFT2" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="rleft20"/>
+        <control name="15k9" saveName="control_15k9" menuName="RDOWN" keyP1="M" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="15k10" saveName="control_15k10" menuName="RRIGHT2" keyP1="COMMA" keyP2="" menuIcon="game/notes/default" menuAnim="rright20"/>
+        <control name="15k11" saveName="control_15k11" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="15k12" saveName="control_15k12" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="15k13" saveName="control_15k13" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="15k14" saveName="control_15k14" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+    </category>
+    <category name="SIXTEEN KEY">
+        <control name="16k0" saveName="control_16k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="16k1" saveName="control_16k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="16k2" saveName="control_16k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="16k3" saveName="control_16k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="16k4" saveName="control_16k4" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="16k5" saveName="control_16k5" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="16k6" saveName="control_16k6" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="16k7" saveName="control_16k7" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+        <control name="16k8" saveName="control_16k8" menuName="RLEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="16k9" saveName="control_16k9" menuName="RDOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="16k10" saveName="control_16k10" menuName="RUP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="16k11" saveName="control_16k11" menuName="RRIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="16k12" saveName="control_16k12" menuName="RLEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="rleft20"/>
+        <control name="16k13" saveName="control_16k13" menuName="RDOWN2" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="rdown20"/>
+        <control name="16k14" saveName="control_16k14" menuName="RUP2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="rup20"/>
+        <control name="16k15" saveName="control_16k15" menuName="RRIGHT2" keyP1="SEMICOLON" keyP2="" menuIcon="game/notes/default" menuAnim="rright20"/>
+    </category>
+    <category name="SEVENTEEN KEY">
+        <control name="17k0" saveName="control_17k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="17k1" saveName="control_17k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="17k2" saveName="control_17k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="17k3" saveName="control_17k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="17k4" saveName="control_17k4" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="17k5" saveName="control_17k5" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="17k6" saveName="control_17k6" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="17k7" saveName="control_17k7" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+        <control name="17k8" saveName="control_17k8" menuName="SQUARE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="17k9" saveName="control_17k9" menuName="RLEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="17k10" saveName="control_17k10" menuName="RDOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="17k11" saveName="control_17k11" menuName="RUP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="17k12" saveName="control_17k12" menuName="RRIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="17k13" saveName="control_17k13" menuName="RLEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="rleft20"/>
+        <control name="17k14" saveName="control_17k14" menuName="RDOWN2" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="rdown20"/>
+        <control name="17k15" saveName="control_17k15" menuName="RUP2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="rup20"/>
+        <control name="17k16" saveName="control_17k16" menuName="RRIGHT2" keyP1="SEMICOLON" keyP2="" menuIcon="game/notes/default" menuAnim="rright20"/>
+    </category>
+    <category name="EIGHTTEEN KEY">
+        <control name="18k0" saveName="control_18k0" menuName="LEFT" keyP1="Q" keyP2="" menuIcon="game/notes/default" menuAnim="left0"/>
+        <control name="18k1" saveName="control_18k1" menuName="DOWN" keyP1="W" keyP2="" menuIcon="game/notes/default" menuAnim="down0"/>
+        <control name="18k2" saveName="control_18k2" menuName="UP" keyP1="E" keyP2="" menuIcon="game/notes/default" menuAnim="up0"/>
+        <control name="18k3" saveName="control_18k3" menuName="RIGHT" keyP1="R" keyP2="" menuIcon="game/notes/default" menuAnim="right0"/>
+        <control name="18k4" saveName="control_18k4" menuName="LEFT2" keyP1="U" keyP2="" menuIcon="game/notes/default" menuAnim="left20"/>
+        <control name="18k5" saveName="control_18k5" menuName="DOWN2" keyP1="I" keyP2="" menuIcon="game/notes/default" menuAnim="down20"/>
+        <control name="18k6" saveName="control_18k6" menuName="UP2" keyP1="O" keyP2="" menuIcon="game/notes/default" menuAnim="up20"/>
+        <control name="18k7" saveName="control_18k7" menuName="RIGHT2" keyP1="P" keyP2="" menuIcon="game/notes/default" menuAnim="right20"/>
+        <control name="18k8" saveName="control_18k8" menuName="SQUARE" keyP1="V" keyP2="" menuIcon="game/notes/default" menuAnim="square0"/>
+        <control name="18k9" saveName="control_18k9" menuName="PLUS" keyP1="N" keyP2="" menuIcon="game/notes/default" menuAnim="plus0"/>
+        <control name="18k10" saveName="control_18k0" menuName="RLEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="rleft0"/>
+        <control name="18k11" saveName="control_18k1" menuName="RDOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="rdown0"/>
+        <control name="18k12" saveName="control_18k2" menuName="RUP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="rup0"/>
+        <control name="18k13" saveName="control_18k3" menuName="RRIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="rright0"/>
+        <control name="18k14" saveName="control_18k4" menuName="RLEFT2" keyP1="J" keyP2="" menuIcon="game/notes/default" menuAnim="rleft20"/>
+        <control name="18k15" saveName="control_18k5" menuName="RDOWN2" keyP1="K" keyP2="" menuIcon="game/notes/default" menuAnim="rdown20"/>
+        <control name="18k16" saveName="control_18k6" menuName="RUP2" keyP1="L" keyP2="" menuIcon="game/notes/default" menuAnim="rup20"/>
+        <control name="18k17" saveName="control_18k7" menuName="RRIGHT2" keyP1="SEMICOLON" keyP2="" menuIcon="game/notes/default" menuAnim="rright20"/>
+    </category>
+</controls>
